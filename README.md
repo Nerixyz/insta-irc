@@ -8,6 +8,8 @@ The IRC is (currently) limited, but there is basic chat support.
 
 # How to use
 
+[DemoVideo](https://www.youtube.com/watch?v=4YpJzgou-Pw)
+
 You have to have [Node](https://nodejs.org/) installed.
 
 Clone the project and run this command:
