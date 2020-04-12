@@ -101,7 +101,7 @@ function makeSyntax(command: RegisteredCommand): string {
         switch (x.type) {
             case 'number':
             case 'string':
-                return x.name;
+                return `<${x.name}>`;
             case 'flag':
                 return `[-${x.name}]`;
         }
